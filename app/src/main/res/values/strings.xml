@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="recipe_item_list_text" translatable="false">Nutella Pie</string>
+    <string name="ingredient_quantity" translatable="false">500</string>
+    <string name="ingredient_measure" translatable="false">TBLSP</string>
+    <string name="ingredient_ingredient" translatable="false">Nutella or other chocolate-hazelnut spread</string>
+    <string name="ingredient_label">Ingredients</string>
+    <string name="steps_image">Video/Image Content</string>
+    <string name="step_detail_image">Imagem from step</string>
+    <string name="step_title">Step Title</string>
+    <string name="step_decription">Description</string>
+</resources>

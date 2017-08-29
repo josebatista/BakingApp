@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_item_list_text_size">25sp</dimen>
+    <dimen name="recipe_item_list_text_padding">20dp</dimen>
+
+    <dimen name="item_list_margin">8dp</dimen>
+    <dimen name="steps_item_list_text_size">20sp</dimen>
+    <dimen name="recipe_detail_margin_button">32dp</dimen>
+    <dimen name="recycler_list_margin">8dp</dimen>
+</resources>
