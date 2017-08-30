@@ -42,12 +42,13 @@ public class RecipeDetailActivity extends AppCompatActivity {
             }
         }
 
+        verifyFullScreen();
+
         if (savedInstanceState != null) {
             mPosition = savedInstanceState.getInt(STEP_POSITION);
         } else {
             setFragment();
         }
-        verifyFullScreen();
     }
 
     public void setFragment() {
